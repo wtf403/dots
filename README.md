@@ -1,2 +1,2 @@
-# Dotfiles for my local macos setup
+# My MacOS setup
 
